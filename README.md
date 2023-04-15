@@ -6,7 +6,7 @@
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example.png)
+![Screenshot](images/old-scientific-illustration-font-v1.0-example-1.png)
 
 <br>
 
