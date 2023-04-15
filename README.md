@@ -120,6 +120,6 @@ How to use in Apps:
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-3-(body-text).png)
+![Screenshot](images/old-scientific-illustration-font-v1.0-example-3-(body-of-text).png)
 
 <br>
