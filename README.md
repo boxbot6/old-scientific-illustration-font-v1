@@ -116,10 +116,10 @@ How to use in Apps:
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-plain.png)
+![Screenshot](images/old-scientific-illustration-font-v1.0-example-2-(monochrome).png)
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-text.png)
+![Screenshot](images/old-scientific-illustration-font-v1.0-example-3-(body-text).png)
 
 <br>
