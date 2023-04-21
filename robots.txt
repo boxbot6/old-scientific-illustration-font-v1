@@ -1,4 +1,4 @@
-Sitemap: https://boxbot6.github.io/old-scientific-illustration-font-v1.0/sitemap.xml
+Sitemap: https://boxbot6.github.io/old-scientific-illustration-font-v1/sitemap.xml
 
 User-agent: *
 Disallow:

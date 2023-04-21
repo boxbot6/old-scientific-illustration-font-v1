@@ -2,11 +2,11 @@
 
 <br>
 
-[Download the font .zip](https://github.com/boxbot6/old-scientific-illustration-font-v1.0/raw/main/downloads/old-scientific-illustration-font-v1.0.zip)
+[Download the font .zip](https://github.com/boxbot6/old-scientific-illustration-font-v1/raw/main/downloads/old-scientific-illustration-font-v1.zip)
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-1.png)
+![Screenshot](images/old-scientific-illustration-font-v1-example-1.png)
 
 <br>
 
@@ -22,7 +22,7 @@ Being a formal script type font having multiple variants of each letter with dif
 
 It was partly made with FontForge - it's free and you can use that to try and sort out anything I missed -I apologise for the list of lookups being rather bloated and illogical, but for use in GIMP I had to keep all the internal programming in GPOS 'clig' and the lookup order is critically important for it to function correctly - it was much easier to just keep adding bits to it in order to fix all the minor bugs.
 
-(The above image shows just a sample of the glyphs that this font contains - download and open `old-scientific-illustration-font-v1.0-character_map.pdf` in a suitable viewer, use Character Map in Windows or open the font in a font editor to view the full set of glyphs).
+(The above image shows just a sample of the glyphs that this font contains - download and open `old-scientific-illustration-font-v1-character_map.pdf` in a suitable viewer, use Character Map in Windows or open the font in a font editor to view the full set of glyphs).
 
 The font also contains a smallcap alphabet and a set of standalone lowercase characters for use in scientific labelling. It also has an extra set of alternative numerals with which you can avoid number sequences becoming repetitive - you can pick these individually using character map in Windows.  
 
@@ -34,15 +34,15 @@ Otherwise typically install and use it as you would any other TrueType font (.tt
 ## Files included:
 * OldScientificIllustration.ttf
 * OldScientificIllustrationRaw.ttf
-* old-scientific-illustration-font-v1.0-character-map.pdf
-* old-scientific-illustration-font-v1.0-example.png
-* old-scientific-illustration-font-v1.0-example-text.png
-* old-scientific-illustration-font-v1.0-example-plain.png
+* old-scientific-illustration-font-v1-character-map.pdf
+* old-scientific-illustration-font-v1-example.png
+* old-scientific-illustration-font-v1-example-text.png
+* old-scientific-illustration-font-v1-example-plain.png
 * Helpful_Font_Tips.txt
 
 <br>
 
-[Download the font .zip](https://github.com/boxbot6/old-scientific-illustration-font-v1.0/raw/main/downloads/old-scientific-illustration-font-v1.0.zip)
+[Download the font .zip](https://github.com/boxbot6/old-scientific-illustration-font-v1/raw/main/downloads/old-scientific-illustration-font-v1.zip)
 
 <br>
 
@@ -116,10 +116,10 @@ How to use in Apps:
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-2-(monochrome).png)
+![Screenshot](images/old-scientific-illustration-font-v1-example-2-(monochrome).png)
 
 <br>
 
-![Screenshot](images/old-scientific-illustration-font-v1.0-example-3-(body-of-text).png)
+![Screenshot](images/old-scientific-illustration-font-v1-example-3-(body-of-text).png)
 
 <br>
