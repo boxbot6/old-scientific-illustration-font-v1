@@ -35,9 +35,9 @@ Otherwise typically install and use it as you would any other TrueType font (.tt
 * OldScientificIllustration.ttf
 * OldScientificIllustrationRaw.ttf
 * old-scientific-illustration-font-v1-character-map.pdf
-* old-scientific-illustration-font-v1-example.png
-* old-scientific-illustration-font-v1-example-text.png
-* old-scientific-illustration-font-v1-example-plain.png
+* old-scientific-illustration-font-v1-example-1.png
+* old-scientific-illustration-font-v1-example-2-(monochrome).png
+* old-scientific-illustration-font-v1-example-3-(body-of-text).png
 * Helpful_Font_Tips.txt
 
 <br>
