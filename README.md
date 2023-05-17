@@ -2,7 +2,7 @@
 
 <br>
 
-[Download the font .zip](https://github.com/boxbot6/old-scientific-illustration-font-v1/raw/main/downloads/old-scientific-illustration-font-v1.zip)
+[Download the free font](https://github.com/boxbot6/old-scientific-illustration-font-v1/raw/main/downloads/old-scientific-illustration-font-v1.zip)
 
 <br>
 
