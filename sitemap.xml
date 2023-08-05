@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/</loc>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-2-(monochrome).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-3-(body-of-text).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-4-(illustrations).png</image:loc>
+    </image:image>
+  </url>
+</urlset>
