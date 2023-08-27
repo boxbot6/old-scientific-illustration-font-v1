@@ -15,7 +15,7 @@
    version="1.1"
    viewBox="0 0 160.68 95.323"
    id="svg65"
-   sodipodi:docname="old-scientific-illustration-font-v1-example2.svg"
+   sodipodi:docname="old-scientific-illustration-font-v1-example-good.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="D:\Documents\My Websites\GitHub Websites\Icons-And-Fonts\old-scientific-illustration-font-v1\images\old-scientific-illustration-font-v1-example-4_8.png"
    inkscape:export-xdpi="360"
@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,13 +46,13 @@
      inkscape:window-height="1346"
      id="namedview67"
      showgrid="false"
-     inkscape:zoom="3.114539"
-     inkscape:cx="303.70002"
-     inkscape:cy="172.98531"
+     inkscape:zoom="3.1170556"
+     inkscape:cx="303.64723"
+     inkscape:cy="180.13795"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="sample"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <defs
      id="defs10">
@@ -234,11 +234,10 @@
     </filter>
   </defs>
   <g
-     id="sample"
-     inkscape:export-xdpi="360"
-     inkscape:export-ydpi="360"
-     style="display:inline"
-     inkscape:label="sample">
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
     <image
        y="-0.024101473"
        x="-0.026458336"
