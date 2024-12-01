@@ -4,8 +4,8 @@
 
 <br>
 
-[<img src="images/old-scientific-illustration-font-v1-example-1.png" alt="Old Scientific Illustration Font Example 1" />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-1.png)
-[<img src="images/old-scientific-illustration-font-v1-example-4-(illustrations).png" alt="Old Scientific Illustration Font Example 4" />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-4-(illustrations).png)
+[<img src="images/old-scientific-illustration-font-v1-example-1.png" alt="Old Scientific Illustration Font alphabet example." />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-1.png)
+[<img src="images/old-scientific-illustration-font-v1-example-4-(illustrations).png" alt="Old Scientific Illustration Font illustration example." />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-4-(illustrations).png)
 
 <br>
 
@@ -116,11 +116,11 @@ How to use in Apps:
 
 <br>
 
-[<img src="images/old-scientific-illustration-font-v1-example-2-(monochrome).png" alt="Old Scientific Illustration Font Example 2" />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-2-(monochrome).png)
+[<img src="images/old-scientific-illustration-font-v1-example-2-(monochrome).png" alt="Old Scientific Illustration Font monochrome example." />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-2-(monochrome).png)
 
 <br>
 
-[<img src="images/old-scientific-illustration-font-v1-example-3-(body-of-text).png" alt="Old Scientific Illustration Font Example 3" />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-3-(body-of-text).png)
+[<img src="images/old-scientific-illustration-font-v1-example-3-(body-of-text).png" alt="Old Scientific Illustration Font text body example." />](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-3-(body-of-text).png)
 
 <br>
 <br>
